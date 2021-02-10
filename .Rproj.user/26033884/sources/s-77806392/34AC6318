@@ -1,0 +1,25 @@
+{
+    "id": "34AC6318",
+    "path": "~/R_Intro03/Day3_Git/test.R",
+    "project_path": "test.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1612945581659.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612947711,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612947728460,
+    "read_only": false,
+    "read_only_alternatives": []
+}
