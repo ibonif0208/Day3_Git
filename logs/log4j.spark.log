@@ -108,3 +108,14 @@
 21/02/10 09:31:11 INFO TaskSchedulerImpl: Killing all running tasks in stage 1: Stage finished
 21/02/10 09:31:11 INFO DAGScheduler: Job 0 finished: count at utils.scala:116, took 1.088147 s
 21/02/10 10:00:48 INFO BlockManagerInfo: Removed broadcast_0_piece0 on 127.0.0.1:59367 in memory (size: 5.0 KiB, free: 912.3 MiB)
+21/02/10 10:14:00 INFO SparkContext: Invoking stop() from shutdown hook
+21/02/10 10:14:00 INFO SparkUI: Stopped Spark web UI at http://127.0.0.1:4040
+21/02/10 10:14:00 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+21/02/10 10:14:00 INFO MemoryStore: MemoryStore cleared
+21/02/10 10:14:00 INFO BlockManager: BlockManager stopped
+21/02/10 10:14:00 INFO BlockManagerMaster: BlockManagerMaster stopped
+21/02/10 10:14:00 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+21/02/10 10:14:00 INFO SparkContext: Successfully stopped SparkContext
+21/02/10 10:14:00 INFO ShutdownHookManager: Shutdown hook called
+21/02/10 10:14:00 INFO ShutdownHookManager: Deleting directory C:\Users\ineaz\AppData\Local\spark\spark-3.0.1-bin-hadoop3.2\tmp\local\spark-035416fc-4655-4bae-8142-069eaa582680
+21/02/10 10:14:00 INFO ShutdownHookManager: Deleting directory C:\Users\ineaz\AppData\Local\Temp\spark-8fe084a4-dd4a-4847-8b48-631d240b235e
